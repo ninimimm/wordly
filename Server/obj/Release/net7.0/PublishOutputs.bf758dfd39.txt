@@ -1,5 +1,0 @@
-C:\Users\nik_chern\RiderProjects\Server\publish\Server.exe
-C:\Users\nik_chern\RiderProjects\Server\publish\Server.dll
-C:\Users\nik_chern\RiderProjects\Server\publish\Server.deps.json
-C:\Users\nik_chern\RiderProjects\Server\publish\Server.runtimeconfig.json
-C:\Users\nik_chern\RiderProjects\Server\publish\Server.pdb
